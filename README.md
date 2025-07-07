@@ -63,7 +63,7 @@ Type 'q()' to quit R.
 > 
 ```
 
-#### *when you first run `ee_Initialize`, you will see
+\*When you first run `ee_Initialize()`, you will see
 
 ```bash
 > ee_Initialize()                                                                                                                           
