@@ -94,4 +94,3 @@ export_forest_data()
 
 # Load the change classification
 drive_download(drive_get("china_change_final.tif"))
-change_raster <- rast("china_change_final.tif")
