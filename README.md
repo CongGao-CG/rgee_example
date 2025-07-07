@@ -62,3 +62,17 @@ Type 'q()' to quit R.
 ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
 > 
 ```
+
+#### *when you first run $ee_Initialize$, you will see
+
+```bash
+> ee_Initialize()                                                                                                                           
+── rgee 1.1.7 ─────────────────────────────────────────────────────────────────────────────────────────────────────────────── earthengine-api 0.1.370 ──                                                                                                                                                        
+ ✔ user: not_defined                                                                                                                                    
+ ✔ Initializing Google Earth Engine:To authorize access needed by Earth Engine, open the following URL in a web browser and follow the instructions. If the web browser does not start automatically, please manually browse the URL below.
+
+    https://code.earthengine.google.com/client-auth?scopes=https%3A//www.googleapis.com/auth/earthengine%20https%3A//www.googleapis.com/auth/devstorage.full_control&request_id=1pjjdBtaQUMdaCAWqMw3NmTHJe25Gi_AptGnoAhHQEE&tc=QyZmnw5dWZmwo3mPr4tzkouHOGzS8fGsdwJUOycYDQo&cc=vmpxTSsW8E0woD-yOIXRrl3EijfwgPlQsb8h26ersEw
+
+The authorization workflow will generate a code, which you should paste in the box below.
+Enter verification code: 
+```
